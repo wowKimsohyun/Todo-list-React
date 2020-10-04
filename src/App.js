@@ -16,10 +16,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <div> Hello World edited 12334456</div>
+          <div> Hello World edited</div>
+          <div>Push again 3</div>
           Learn React
         </a>
       </header>
-
+    </div>
+  );
+}
 
 export default App;
